@@ -5,7 +5,7 @@ It's terminal snake game
 1. Move to home directory: cd
 2. Download: git clone git@github.com:Chimi70/Snake.git
 3. move to snake folder: cd Snake
-4. Compile: gcc snake.cpp -o snake
+4. Compile: g++ snake.cpp -o snake # g++ because it is c++ project
 5. Run Game: ./snake
 
 ## How uninstall
