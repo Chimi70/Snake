@@ -10,4 +10,4 @@ It's terminal snake game
 
 ## How uninstall
 1. Move to home directory: cd
-2. Remove game: rm snake snake.cpp
+2. Remove game: rm -r Snake
